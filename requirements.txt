@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=1.5
+h5py>=3.8
+scikit-learn>=1.2
+hdbscan>=0.8.33
+open3d>=0.17
+matplotlib>=3.7
